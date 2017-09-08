@@ -31,5 +31,5 @@ chmod a+x d0read.sh
 Via crontab -e add:
 - SHELL=/bin/bash
 - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-- ## m h  dom mon dow   command
+- \#\# m h  dom mon dow   command
 - @reboot /bin/bash /home/pi/lesekopf/d0read.sh
