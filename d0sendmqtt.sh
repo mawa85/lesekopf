@@ -26,13 +26,13 @@ declare -A array
 array[Total]="1.8.0("
 array[HT]="1.8.1("
 array[NT]="1.8.2("
-array[W]="1.25("
-array[Imax]="31.25("
-array[Iavg]="51.25("
-array[Imin]="71.25("
-array[Umax]="32.25("
-array[Uavg]="52.25("
-array[Umin]="72.25("
+array[kW]="1.25("
+array[I1]="31.25("
+array[I2]="51.25("
+array[I3]="71.25("
+array[U1]="32.25("
+array[U2]="52.25("
+array[U3]="72.25("
 
 #Processing
 
